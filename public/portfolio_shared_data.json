@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Marcelous Kyles",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Aspiring developer passionate about coding and lifelong learning. Currently enrolled in CodeCrew's full-time program, honing skills in software developement, and eager to make an impact in the tech industry." ],
       "social": [
         {
           "name": "github",
@@ -9,12 +9,12 @@
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "Linkedin",
+          "url": "https://www.linkedin.com",
+          "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "images/Sello1.jpg"
     },
     "skills": {
       "icons": [
